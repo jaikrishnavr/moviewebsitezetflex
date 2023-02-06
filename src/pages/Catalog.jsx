@@ -17,7 +17,7 @@ const Catalog = () => {
                 {category === cate.movie ? 'Movies' : 'TV Series'}
             </PageHeader>
             <div className="container">
-                <div className="section mb-3">
+                <div className="section mb-4">
                     <MovieGrid category={category}/>
                 </div>
             </div>

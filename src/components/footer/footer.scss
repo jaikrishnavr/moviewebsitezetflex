@@ -38,3 +38,12 @@
         }
     }
 }
+.footer_text{
+    @include flex( center, center);
+    margin-top: 3rem;
+
+}
+    .footer_link{
+        color: coral;
+        text-decoration: underline;
+    }

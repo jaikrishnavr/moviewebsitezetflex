@@ -14,7 +14,7 @@ const Footer = () => {
                 <div className="footer__content__logo">
                     <div className="logo">
                         <img src={logo} alt="" />
-                        <Link to="/">tMovies</Link>
+                        <Link to="/">Zetflex</Link>
                     </div>
                 </div>
                 <div className="footer__content__menus">
@@ -36,7 +36,14 @@ const Footer = () => {
                         <Link to="/">Top IMDB</Link>
                     </div>
                 </div>
+              
             </div>
+            <div className='footer_text'>
+                
+                    <p>
+                      Developed by <a href='' className='footer_link'>Jai krishna</a>
+                    </p>
+                </div>
         </div>
     );
 }
