@@ -41,7 +41,7 @@ const Footer = () => {
             <div className='footer_text'>
                 
                     <p>
-                      Developed by <a href='https://luxury-tapioca-6d3838.netlify.app/' className='footer_link'>Jai krishna</a>
+                      Developed by <a href='https://jaikrishnavr.com/' className='footer_link'>Jai krishna</a>
                     </p>
                 </div>
         </div>
