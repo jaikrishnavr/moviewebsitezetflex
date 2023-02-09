@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/moviewebsitezetflex/static/css/main.655bfc01.chunk.css",
-    "main.js": "/moviewebsitezetflex/static/js/main.de5abaea.chunk.js",
-    "main.js.map": "/moviewebsitezetflex/static/js/main.de5abaea.chunk.js.map",
+    "main.js": "/moviewebsitezetflex/static/js/main.c9bbb1a3.chunk.js",
+    "main.js.map": "/moviewebsitezetflex/static/js/main.c9bbb1a3.chunk.js.map",
     "runtime-main.js": "/moviewebsitezetflex/static/js/runtime-main.5b972a15.js",
     "runtime-main.js.map": "/moviewebsitezetflex/static/js/runtime-main.5b972a15.js.map",
     "static/css/2.25dc03cb.chunk.css": "/moviewebsitezetflex/static/css/2.25dc03cb.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.25dc03cb.chunk.css",
     "static/js/2.4d77d750.chunk.js",
     "static/css/main.655bfc01.chunk.css",
-    "static/js/main.de5abaea.chunk.js"
+    "static/js/main.c9bbb1a3.chunk.js"
   ]
 }
